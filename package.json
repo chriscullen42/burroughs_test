@@ -4,6 +4,7 @@
   "description": "### _The Burroughs Test_",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "repository": {
@@ -18,8 +19,6 @@
   },
   "homepage": "https://github.com/chriscullen42/burroughs_test#readme",
   "dependencies": {
-    "command": "0.0.5",
-    "csv": "^5.3.2",
     "moment": "^2.29.1"
   },
   "devDependencies": {
